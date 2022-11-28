@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #B7C9A1;
+}
+
+.idioma{
+    background: #4B578C;
+    color: white;
+    display: flex;
+    padding: 15px;
+    justify-content: right;
+}
+
+.idioma > img {
+    margin-right: 15px;
+}
+
+#content {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+tr:nth-child(1){
+  background: #D59D26;  
+}
+
+table, td {
+    border: 1px solid black;
+    padding: 5px;
+}  
